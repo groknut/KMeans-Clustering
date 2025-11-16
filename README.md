@@ -2,6 +2,7 @@
 ## Кластеризация KMeans
 
 **Используемый датасет:** [2d-clustering-data](https://www.kaggle.com/datasets/samuelcortinhas/2d-clustering-data/data)
+
 **Рабочий блокнот:** [Блокнот](./KMeans-Clustering.ipynb)
 
 ### Инструкции по запуску на локальной машине
